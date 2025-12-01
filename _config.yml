@@ -25,8 +25,8 @@ paginate: 5
 paginate_path: blog/page:num
 
 # Collections
-# collections:
-#  posts:
-#    title: Blog
-#    output: true
+ collections:
+  posts:
+    title: Blog
+    output: true
 #    description: "There isn't much going on here yet, but watch this space"
