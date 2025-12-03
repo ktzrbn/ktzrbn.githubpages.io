@@ -18,7 +18,7 @@ baseurl: 'katzir.xyz'
 title: 'behind the keywords'
 description: 'computers, books, culture'
 permalink: pretty
-logo: ""
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
 
 # Pagination
 paginate: 5
